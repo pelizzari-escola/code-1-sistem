@@ -24,6 +24,8 @@ def iniciar_app(): #função criada para iniciar a aplicação chamando outras f
 
 iniciar_app()
 
-
+print("** Mini System **\n")
+print("Bem-vindo ao sistema do 1ºA\n")
+opcao_login = input("\nDigite 1 para fazer LOGIN e 2 para se cadastrar: ")
 
 
